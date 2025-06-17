@@ -15,7 +15,7 @@ Controlled via an Android application with login/signup functionality, Battle Bo
 - 📱 **Android App Control** – Includes **login/signup authentication** and a clean interface to steer and operate the bot.
 - 🔗 **Bluetooth Communication** – Real-time commands transmitted directly from the phone to the bot.
 - 🔐 **Secure Control Access** – Only authenticated users can control the bot.
-- 📥 **App Download** – [Download Here]([//url](https://drive.google.com/file/d/1zCb1cb21wVK9HGNaVPVnBrSPChwQeWxD/view?usp=sharing)) to get the Android controller app.
+- 📥 **App Download** – [Download Here]([//url](https://www.mediafire.com/file/nj9y4fjbslttb08/Death_Bot_6900_controller.apk/file)) to get the Android controller app.
 
 ---
 
@@ -47,7 +47,7 @@ Controlled via an Android application with login/signup functionality, Battle Bo
    - Ensure the Arduino and motor driver shield are properly connected.
 
 2. **Download the App**
-   - Access the Android controller application here: [Download App]([//url](https://drive.google.com/file/d/1zCb1cb21wVK9HGNaVPVnBrSPChwQeWxD/view?usp=sharing))
+   - Access the Android controller application here: [Download App]([//url](https://www.mediafire.com/file/nj9y4fjbslttb08/Death_Bot_6900_controller.apk/file))
    - Install it on your smartphone.
 
 3. **Pair the Bot**

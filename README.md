@@ -16,6 +16,7 @@ Controlled via an Android application with login/signup functionality, Battle Bo
 - 🔗 **Bluetooth Communication** – Real-time commands transmitted directly from the phone to the bot.
 - 🔐 **Secure Control Access** – Only authenticated users can control the bot.
 - 📥 **App Download** – [Download Here]([//url](https://www.mediafire.com/file/nj9y4fjbslttb08/Death_Bot_6900_controller.apk/file)) to get the Android controller app.
+- or go to link https://www.mediafire.com/file/nj9y4fjbslttb08/Death_Bot_6900_controller.apk/file
 
 ---
 
